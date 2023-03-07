@@ -3,5 +3,5 @@ sudo apt-get update
 echo "installing python3 and python-is-python3"
 sudo apt-get install python3-pip python-is-python3 -y
 echo "installing pytube and youtube search"
-pip install pytube youtubesearchpython
-
+pip install pytube 
+pip install youtube-search-python
